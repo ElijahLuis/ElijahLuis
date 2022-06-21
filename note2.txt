@@ -1,3 +1,0 @@
-This note's first line will be done in the first branch, testbranch1. Change 1.
-This note's second line will be done in the second branch, testbranch2. Change 2.
-This note's third line is a copy to a new file, note2, in testbranch2. Change 3.
